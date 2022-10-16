@@ -1,8 +1,5 @@
-# Hi there 👋
+# Hi 👋
 
-
-#### 🌱 I’m currently learning Laravel
-#### 😄 Pronouns: she/Her
 
 <div align="center">
   <a href="https://github.com/fleemings">
