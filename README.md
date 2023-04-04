@@ -2,14 +2,6 @@
     <h1 align="center">Hey there, my name is Milena Fleming 👋</h1>
 </div> 
 
-
-<div align="center">
-  <a href="https://github.com/fleemings">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fleemings&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleemings&layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
-  
-
   <div>
     <p align="center"><i>This is what I know: </i></p>
  </div><br>
